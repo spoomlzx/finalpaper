@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.26)  27 SEP 2014 11:10
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.26)  8 OCT 2014 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1904,25 +1904,25 @@ LaTeX Font Info:    Font shape `U/fsy/m/n' will be
 . * 'normal' with NFSS spec.:
 . <->"Adobe Song Std/ICU:script=hani;language=DFLT;mapping=tex-text;"
 .................................................
-)
-\tf@toc=\write5
-\openout5 = `thesis.toc'.
-
  [1
 
 
 
-] (./thesis.lot)
+])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+ [2] (./thesis.lot)
 \tf@lot=\write6
 \openout6 = `thesis.lot'.
 
- [2
+ [3
 
 ] (./thesis.lof)
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
- [3
+ [4
 
 ]
 (./data/abstract.tex [1
@@ -1939,21 +1939,6 @@ LaTeX Font Info:    Font shape `U/fsy/m/n' will be
 LaTeX Font Warning: Font shape `EU1/STZhongsong(0)/bx/n' undefined
 (Font)              using `EU1/STZhongsong(0)/m/n' instead on input line 8.
 
-File: figures/picmain.pdf Graphic file (type QTm)
-<use  "figures/picmain.pdf" >
-File: figures/picmain.pdf Graphic file (type QTm)
- <use  "figures/picmain.pdf" > [1
-
-
-
-]
-File: figures/picmain.pdf Graphic file (type QTm)
-
-<use  "figures/picmain.pdf" >
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2])
-(./data/chap02.tex [3]
 \g_fontspec_family_Adobe Kaiti Std_int=\count327
 .................................................
 . fontspec info: "no-font-shape"
@@ -1981,147 +1966,70 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 . * 'normal' with NFSS spec.:
 . <->"Adobe Kaiti Std/ICU:script=hani;language=DFLT;mapping=tex-text;"
 .................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'AdobeKaitiStd(0)' created for font 'Adobe Kaiti Std' with
-. options [Mapping=tex-text,Script={CJK}].
-. 
-. This font family consists of the following shapes:
-.................................................
- [4
+) (./data/chap02.tex [1
+
+
+
+]) (./data/chap03.tex [2
+
+
+]) (./data/chap04.tex [3
+
+
+])
+(./data/chap05.tex [4
+
+
+]) (./data/chap06.tex [5
+
+
+]) (./data/chap07.tex [6
+
+
+])
+(./data/ack.tex [7
 
 
 ]
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 63.
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 63.
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 4.49997pt on input line 63.
-
-Overfull \hbox (24.7561pt too wide) in alignment at lines 59--70
-[][] 
- []
-
-[5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-[7]
-File: figures/hello.pdf Graphic file (type QTm)
- <use  "figures/hello.pdf" >
-File: figures/xh.eps Graphic file (type eps)
- <figures/xh.eps>
-File: figures/xhh.eps Graphic file (type eps)
- <figures/xhh.eps>
-File: figures/typography.pdf Graphic file (type QTm)
-
-<use  "figures/typography.pdf" >
-File: figures/typography.pdf Graphic file (type QTm)
- <use  "figures/typography.pdf" >
-File: figures/typography.pdf Graphic file (type QTm)
-
-<use  "figures/typography.pdf" >
-File: figures/typography.pdf Graphic file (type QTm)
- <use  "figures/typography.pdf" >
-File: figures/typography.pdf Graphic file (type QTm)
-
-<use  "figures/typography.pdf" >
-File: figures/typography.pdf Graphic file (type QTm)
- <use  "figures/typography.pdf" >
-Underfull \vbox (badness 2478) has occurred while \output is active []
-
- [8]
-File: figures/xhh.eps Graphic file (type eps)
-
-<figures/xhh.eps>
-File: figures/xhh.eps Graphic file (type eps)
- <figures/xhh.eps>
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
-t line 365.
-
-[10]
-Package hyperref Info: bookmark level for unknown proof defaults to 0 on input 
-line 385.
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 402.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-(d:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2014/03/04 1.5c listings language file
-)
-(d:/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
-) [12]
-(d:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2014/03/04 1.5c listings language file
-)
-(d:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2014/03/04 1.5c listings language file
-)
-
-LaTeX Font Warning: Font shape `EU1/CourierNew(0)/tt/n' undefined
-(Font)              using `EU1/CourierNew(0)/m/n' instead on input line 508.
-
-
-LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/tt/n' undefined
-(Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 509.
-
-
-
-LaTeX Font Warning: Font shape `EU1/AdobeKaitiStd(0)/tt/n' undefined
-(Font)              using `EU1/AdobeKaitiStd(0)/m/n' instead on input line 513.
-
-
-
-Underfull \vbox (badness 1521) has occurred while \output is active []
-
- [13]
-[14]) (./data/ack.tex [15]
 
 LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/m/sc' undefined
 (Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 10.
 
-) [16
+) [8
 
-] (./thesis.bbl [17
+] (./thesis.bbl [9
 
 
-]) (./data/resume.tex [18]) [19
+]) (./data/resume.tex [10]) [11
 
 ] (./data/appendix01.tex)
 \tf@thm=\write8
 \openout8 = `thesis.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
- [20
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
+
+[12
 
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
  (./thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 108.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 108.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 114.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 114.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 114.
  ) 
 Here is how much of TeX's memory you used:
- 31769 strings out of 494648
- 588237 string characters out of 6163813
- 706884 words of memory out of 5000000
- 34573 multiletter control sequences out of 15000+600000
- 100150 words of font info for 374 fonts, out of 8000000 for 9000
+ 30961 strings out of 494648
+ 567268 string characters out of 6163813
+ 631248 words of memory out of 5000000
+ 33798 multiletter control sequences out of 15000+600000
+ 84194 words of font info for 301 fonts, out of 8000000 for 9000
  622 hyphenation exceptions out of 8191
- 51i,21n,67p,10427b,1867s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,11n,67p,10427b,577s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (29 pages).
+Output written on thesis.pdf (22 pages).
