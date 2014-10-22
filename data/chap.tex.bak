@@ -243,82 +243,82 @@ EP.B.8 & 126.74  & 0.003 & 0.017 & 0.005 & 0.083 & 1656   \\
 这个命令不会给表格编号，也就是出来的只有标题文字而没有“表~XX”，“图~XX”，否则
 索引里面序号{\kai 不连续}就显得不伦不类，这也是 \LaTeX{} 里星号命令默认的规则。
 
-%\section{绘图插图}
-%
-%本模板不再预先装载任何绘图包（如 \textsf{pstricks，pgf} 等），完全由你自己来决定。
-%个人觉得 \textsf{pgf} 不错，不依赖于 Postscript。此外还有很多针对 \LaTeX{} 的
-% GUI 作图工具，如 XFig(jFig), WinFig, Tpx, Ipe, Dia, Inkscape, LaTeXPiX,
-%jPicEdt 等等。本人强烈推荐\textsf{Ipe}。
-%
-%一般图形都是处在浮动环境中。之所以称为浮动是指最终排版效果图形的位置不一定与源文
-%件中的位置对应，这也是刚使用 \LaTeX{} 同学可能遇到的问题。
-%如果要强制固定浮动图形的位置，请使用 \textsf{float} 宏包，
-%它提供了 \texttt{[H]}（意思是图片就给我放在这里\textcolor{red}{H}ere）参数，
-%但是除非特别需要，不建议使用\texttt{[H]}，而是推荐使用\texttt{[htbp]}，
-%给\LaTeX{}更多选择。比如图~\ref{fig:ipe}。
-%\begin{figure}[htbp] % use float package if you want it here
-%  \centering
-%  \includegraphics[width=3in]{hello}
-%  \caption{利用IPE制图}
-%  \label{fig:ipe}
-%\end{figure}
-%
-%若子图共用一个计数器，
-%那么请看图~\ref{fig:big1}，它包含两个小图，分别是图~\ref{fig:subfig1}
-%和图~\ref{fig:subfig2}。这里推荐使用\verb|\subfloat|，{\bf 不要再用}
-%\verb|\subfigure|和\verb|\subtable|。
-%\begin{figure}[htb]
-%  \centering%
-%  \subfloat[第一个小图形]{%
-%    \label{fig:subfig1}
-%    \includegraphics[height=2cm]{xh}}\hspace{4em}%
-%  \subfloat[第二个小图形。如果标题很长的话，它会自动换行，这个 caption 就是这样的例子]{%
-%    \label{fig:subfig2}
-%    \includegraphics[height=2cm]{xhh}}
-%  \caption{包含子图形的大图形}
-%  \label{fig:big1}
-%\end{figure}
-%
-%而下面这个例子显示并排$3\times2$的图片，见图\ref{fig:subfig:3x2}:
-%\begin{figure}[htb]
-%\centering
-%\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
-%\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
-%\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
-%\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
-%\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
-%\subfloat[]{\includegraphics[width=.27\textwidth]{typography}}
-%\caption{并排图片}
-%\label{fig:subfig:3x2}
-%\end{figure}
-%
-%要注意，图\ref{fig:subfig:3x2}例中
-%\texttt{qquad}相当于\verb|\hspace{2em}|，也就是2个字符的宽度，约0.08倍页宽，
-%图片宽度设定为0.27倍页宽是合适的；在该环境中，尽量不要手动换行，所以，不妨自己计算一下！
-%
-%如果要把编号的两个图形并排，那么小页(minipage)就非常有用了，可以分别参考
-%图\ref{fig:parallel1}和图\ref{fig:parallel2}。其实这个例子和表格一节中并排
-%放置的表格一摸一样。
-%\begin{figure}[htb]
-%\begin{minipage}{0.48\textwidth}
-%  \centering
-%  \includegraphics[height=1.2cm]{xhh}
-%  \caption{并排第一个图}
-%  \label{fig:parallel1}
-%\end{minipage}\hfill
-%\begin{minipage}{0.48\textwidth}
-%  \centering
-%  \includegraphics[height=1.2cm]{xhh}
-%  \caption{并排第二个图}
-%  \label{fig:parallel2}
-%\end{minipage}
-%\end{figure}
-%
-%图形就说这么多，因为大家在写论文是遇到的最大问题不是怎么把图插进去，
-%而是怎样做出专业的、诡异的、震撼的图片来，记得在这时参考前面推荐的那
-%些工具吧，当然必不可少的是Matlab了，至于如何加入中文标注、支持中文等等
-%可以上网去查，但这里{\kai 推荐一点}，用好export命令，使得插入图片时尽可能的不要
-%缩放，保证图文的一致性。
+\section{绘图插图}
+
+本模板不再预先装载任何绘图包（如 \textsf{pstricks，pgf} 等），完全由你自己来决定。
+个人觉得 \textsf{pgf} 不错，不依赖于 Postscript。此外还有很多针对 \LaTeX{} 的
+ GUI 作图工具，如 XFig(jFig), WinFig, Tpx, Ipe, Dia, Inkscape, LaTeXPiX,
+jPicEdt 等等。本人强烈推荐\textsf{Ipe}。
+
+一般图形都是处在浮动环境中。之所以称为浮动是指最终排版效果图形的位置不一定与源文
+件中的位置对应，这也是刚使用 \LaTeX{} 同学可能遇到的问题。
+如果要强制固定浮动图形的位置，请使用 \textsf{float} 宏包，
+它提供了 \texttt{[H]}（意思是图片就给我放在这里\textcolor{red}{H}ere）参数，
+但是除非特别需要，不建议使用\texttt{[H]}，而是推荐使用\texttt{[htbp]}，
+给\LaTeX{}更多选择。比如图~\ref{fig:ipe}。
+\begin{figure}[htbp] % use float package if you want it here
+  \centering
+  \includegraphics[width=3in]{hello}
+  \caption{利用IPE制图}
+  \label{fig:ipe}
+\end{figure}
+
+若子图共用一个计数器，
+那么请看图~\ref{fig:big1}，它包含两个小图，分别是图~\ref{fig:subfig1}
+和图~\ref{fig:subfig2}。这里推荐使用\verb|\subfloat|，{\bf 不要再用}
+\verb|\subfigure|和\verb|\subtable|。
+\begin{figure}[htb]
+  \centering%
+  \subfloat[第一个小图形]{%
+    \label{fig:subfig1}
+    \includegraphics[height=2cm]{xh}}\hspace{4em}%
+  \subfloat[第二个小图形。如果标题很长的话，它会自动换行，这个 caption 就是这样的例子]{%
+    \label{fig:subfig2}
+    \includegraphics[height=2cm]{xhh}}
+  \caption{包含子图形的大图形}
+  \label{fig:big1}
+\end{figure}
+
+而下面这个例子显示并排$3\times2$的图片，见图\ref{fig:subfig:3x2}:
+\begin{figure}[htb]
+\centering
+\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
+\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
+\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
+\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
+\subfloat[]{\includegraphics[width=.27\textwidth]{typography}} \qquad
+\subfloat[]{\includegraphics[width=.27\textwidth]{typography}}
+\caption{并排图片}
+\label{fig:subfig:3x2}
+\end{figure}
+
+要注意，图\ref{fig:subfig:3x2}例中
+\texttt{qquad}相当于\verb|\hspace{2em}|，也就是2个字符的宽度，约0.08倍页宽，
+图片宽度设定为0.27倍页宽是合适的；在该环境中，尽量不要手动换行，所以，不妨自己计算一下！
+
+如果要把编号的两个图形并排，那么小页(minipage)就非常有用了，可以分别参考
+图\ref{fig:parallel1}和图\ref{fig:parallel2}。其实这个例子和表格一节中并排
+放置的表格一摸一样。
+\begin{figure}[htb]
+\begin{minipage}{0.48\textwidth}
+  \centering
+  \includegraphics[height=1.2cm]{xhh}
+  \caption{并排第一个图}
+  \label{fig:parallel1}
+\end{minipage}\hfill
+\begin{minipage}{0.48\textwidth}
+  \centering
+  \includegraphics[height=1.2cm]{xhh}
+  \caption{并排第二个图}
+  \label{fig:parallel2}
+\end{minipage}
+\end{figure}
+
+图形就说这么多，因为大家在写论文是遇到的最大问题不是怎么把图插进去，
+而是怎样做出专业的、诡异的、震撼的图片来，记得在这时参考前面推荐的那
+些工具吧，当然必不可少的是Matlab了，至于如何加入中文标注、支持中文等等
+可以上网去查，但这里{\kai 推荐一点}，用好export命令，使得插入图片时尽可能的不要
+缩放，保证图文的一致性。
 
 \section{公式定理}
 \label{sec:equation}

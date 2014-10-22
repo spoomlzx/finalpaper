@@ -3,56 +3,68 @@
 \contentsline {chapter}{\numberline {1}绪论}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}本文研究背景和意义}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}无线传感网概述}{1}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}无线传感网数据交叉认证概述}{1}{subsection.1.1.2}
-\contentsline {section}{\numberline {1.2}本文研究内容}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}本文组织结构}{1}{section.1.3}
-\contentsline {chapter}{\numberline {2}相关研究}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}（2.1 题目）}{2}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}（2.1.1 题目）}{2}{subsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.1.1}（2.1.1.1 题目）}{2}{subsubsection.2.1.1.1}
-\contentsline {subsubsection}{\numberline {2.1.1.2}（2.1.1.2 题目）}{2}{subsubsection.2.1.1.2}
-\contentsline {subsection}{\numberline {2.1.2}（2.1.2 题目）}{2}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}（2.2 题目）}{2}{section.2.2}
-\contentsline {section}{\numberline {2.3}（2.3 题目）}{2}{section.2.3}
-\contentsline {chapter}{\numberline {3}多跳长路径上多节点联合数据认证}{3}{chapter.3}
-\contentsline {section}{\numberline {3.1}（2.1 题目）}{3}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}（2.1.1 题目）}{3}{subsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.1.1}（2.1.1.1 题目）}{3}{subsubsection.3.1.1.1}
-\contentsline {subsubsection}{\numberline {3.1.1.2}（2.1.1.2 题目）}{3}{subsubsection.3.1.1.2}
-\contentsline {subsection}{\numberline {3.1.2}（2.1.2 题目）}{3}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}（2.2 题目）}{3}{section.3.2}
-\contentsline {section}{\numberline {3.3}（2.3 题目）}{3}{section.3.3}
-\contentsline {chapter}{\numberline {4}多路径抗密钥失效}{4}{chapter.4}
-\contentsline {section}{\numberline {4.1}（2.1 题目）}{4}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}（2.1.1 题目）}{4}{subsection.4.1.1}
-\contentsline {subsubsection}{\numberline {4.1.1.1}（2.1.1.1 题目）}{4}{subsubsection.4.1.1.1}
-\contentsline {subsubsection}{\numberline {4.1.1.2}（2.1.1.2 题目）}{4}{subsubsection.4.1.1.2}
-\contentsline {subsection}{\numberline {4.1.2}（2.1.2 题目）}{4}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}（2.2 题目）}{4}{section.4.2}
-\contentsline {section}{\numberline {4.3}（2.3 题目）}{4}{section.4.3}
-\contentsline {chapter}{\numberline {5}密钥分配方案}{5}{chapter.5}
-\contentsline {section}{\numberline {5.1}（2.1 题目）}{5}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}（2.1.1 题目）}{5}{subsection.5.1.1}
-\contentsline {subsubsection}{\numberline {5.1.1.1}（2.1.1.1 题目）}{5}{subsubsection.5.1.1.1}
-\contentsline {subsubsection}{\numberline {5.1.1.2}（2.1.1.2 题目）}{5}{subsubsection.5.1.1.2}
-\contentsline {subsection}{\numberline {5.1.2}（2.1.2 题目）}{5}{subsection.5.1.2}
-\contentsline {section}{\numberline {5.2}（2.2 题目）}{5}{section.5.2}
-\contentsline {section}{\numberline {5.3}（2.3 题目）}{5}{section.5.3}
-\contentsline {chapter}{\numberline {6}仿真实验与结果分析}{6}{chapter.6}
-\contentsline {section}{\numberline {6.1}（2.1 题目）}{6}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}（2.1.1 题目）}{6}{subsection.6.1.1}
-\contentsline {subsubsection}{\numberline {6.1.1.1}（2.1.1.1 题目）}{6}{subsubsection.6.1.1.1}
-\contentsline {subsubsection}{\numberline {6.1.1.2}（2.1.1.2 题目）}{6}{subsubsection.6.1.1.2}
-\contentsline {subsection}{\numberline {6.1.2}（2.1.2 题目）}{6}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}（2.2 题目）}{6}{section.6.2}
-\contentsline {section}{\numberline {6.3}（2.3 题目）}{6}{section.6.3}
-\contentsline {chapter}{\numberline {7}总结与展望}{7}{chapter.7}
-\contentsline {section}{\numberline {7.1}本文总结}{7}{section.7.1}
-\contentsline {section}{\numberline {7.2}未来工作于展望}{7}{section.7.2}
-\contentsline {chapter}{致谢}{8}{chapter*.14}
-\contentsline {chapter}{参考文献}{9}{section*.15}
-\contentsline {chapter}{作者在学期间取得的学术成果}{11}{chapter*.17}
-\ttl@change@i {\@ne }{chapter}{0pt}{\vspace {0.25\baselineskip } \heiti \xiaosi [1.25]}{附录\,\thecontentslabel \quad }{}{\hspace {.5em}\titlerule *{.}\contentspage }\relax 
-\ttl@change@v {chapter}{}{}{}\relax 
-\contentsline {chapter}{\numberline {A}模板提供的希腊字母命令列表}{12}{appendix.A}
+\contentsline {subsection}{\numberline {1.1.2}无线传感网对数据认证的需求}{1}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}本文研究内容}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}本文组织结构}{2}{section.1.3}
+\contentsline {chapter}{\numberline {2}相关研究}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}无线传感网安全技术概述}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}无线传感网的安全威胁}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}无线传感网的安全机制}{3}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}密码算法}{3}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}安全路由}{3}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2.3}数据聚合}{3}{subsubsection.2.1.2.3}
+\contentsline {subsubsection}{\numberline {2.1.2.4}入侵检测}{3}{subsubsection.2.1.2.4}
+\contentsline {subsubsection}{\numberline {2.1.2.5}认证机制}{3}{subsubsection.2.1.2.5}
+\contentsline {subsubsection}{\numberline {2.1.2.6}密钥管理}{3}{subsubsection.2.1.2.6}
+\contentsline {section}{\numberline {2.2}无线传感网认证机制概述}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}无线传感网数据认证概述}{4}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}无线传感网密钥分配方案概述}{4}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {3}多跳长路径上多节点联合数据认证}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}无线传感网数据认证模型}{6}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}多跳长路径上多节点联合数据认证模型}{6}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}系统模型和设计目标}{7}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}系统模型}{7}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}设计目标}{7}{subsubsection.3.1.2.2}
+\contentsline {section}{\numberline {3.2}多跳长路径上多节点联合的数据认证机制设计与实现}{8}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}符号与定义}{8}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}多节点联合数据认证方案}{9}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}初始化}{9}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}数据报文发送}{9}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}路径中过滤}{10}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}基站认证}{10}{subsubsection.3.2.2.4}
+\contentsline {subsection}{\numberline {3.2.3}安全性能分析}{11}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}簇内节点攻击}{11}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}路径中节点攻击}{11}{subsubsection.3.2.3.2}
+\contentsline {section}{\numberline {3.3}路径上节点关系的维护}{12}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}基站维护}{12}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}节点自动维护}{12}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}本章小结}{13}{section.3.4}
+\contentsline {chapter}{\numberline {4}数据认证方案优化}{14}{chapter.4}
+\contentsline {section}{\numberline {4.1}多路径抗节点失效机制实现}{14}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}设计实现}{14}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}初始化和密钥分配}{14}{subsubsection.4.1.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.2}数据报文发送}{16}{subsubsection.4.1.1.2}
+\contentsline {subsubsection}{\numberline {4.1.1.3}路径中过滤}{16}{subsubsection.4.1.1.3}
+\contentsline {subsubsection}{\numberline {4.1.1.4}基站认证}{17}{subsubsection.4.1.1.4}
+\contentsline {subsubsection}{\numberline {4.1.1.5}路径选择}{17}{subsubsection.4.1.1.5}
+\contentsline {subsection}{\numberline {4.1.2}安全性能分析}{17}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}动态步长多节点联合数据认证}{17}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}动态步长多节点联合数据认证机制设计}{18}{subsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.1.1}面向动态步长多节点联合数据认证的密钥分配}{18}{subsubsection.4.2.1.1}
+\contentsline {subsubsection}{\numberline {4.2.1.2}报文数据压缩传输}{19}{subsubsection.4.2.1.2}
+\contentsline {subsubsection}{\numberline {4.2.1.3}动态步长调整机制}{19}{subsubsection.4.2.1.3}
+\contentsline {subsection}{\numberline {4.2.2}安全性能分析}{20}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}本章小结}{20}{section.4.3}
+\contentsline {chapter}{\numberline {5}密钥分配与MAC设计}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}基于单向hash链的密钥分配方案}{21}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}单向hash链}{21}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}轻量级MAC码}{21}{section.5.2}
+\contentsline {section}{\numberline {5.3}本章小结}{21}{section.5.3}
+\contentsline {chapter}{\numberline {6}仿真实验与结果分析}{22}{chapter.6}
+\contentsline {chapter}{\numberline {7}总结与展望}{23}{chapter.7}
+\contentsline {section}{\numberline {7.1}本文总结}{23}{section.7.1}
+\contentsline {section}{\numberline {7.2}未来工作于展望}{23}{section.7.2}
+\contentsline {chapter}{致谢}{24}{chapter*.25}
+\contentsline {chapter}{参考文献}{25}{section*.26}
+\contentsline {chapter}{作者在学期间取得的学术成果}{26}{chapter*.28}
 \contentsfinish 

@@ -8,8 +8,7 @@
 \RequirePackage{fancyvrb}
 \RequirePackage[chapter]{algorithm}
 \RequirePackage{algorithmic}
-%\RequirePackage{multirow}
-%\RequirePackage{bigstruct}
+\RequirePackage{multirow}
 
 % 配置Lstlisting
 \lstset{

@@ -1,28 +1,38 @@
 \chapter{仿真实验与结果分析}
-
-本章的主要内容与学校提供的Word模板中内容一致，图片与表格均采用原始设定大小，%
-主要是为了说明格式的统一。%
-但是，\LaTeX{}的一些禁则，专业排版的能力，对公式及文献的处理都是得天独厚的，%
-我们不必刻意去追求与Word的完美匹配。而且你将会发现，用\LaTeX{}书写论文的美！ %
-
-\section{（2.1 题目）}
-正文内容
-
-\subsection{（2.1.1 题目）}
-正文内容
-
-\subsubsection{（2.1.1.1 题目）}
-正文内容
-
-\subsubsection{（2.1.1.2 题目）}
-正文内容
-
-\subsection{（2.1.2 题目）}
-正文内容
-
-
-\section{（2.2 题目）}
-正文内容
-
-\section{（2.3 题目）}
+\begin{lstlisting}[language=C]
+void Ch::handleMessage(cMessage* msg) {
+    //cluster header
+    if (getIndex() == 0) {
+        if (msg == sendPkt) {
+            //generate packet of event
+            char msgname[30];
+            sprintf(msgname,"event @ %s",SIMTIME_STR(simTime()));
+            ev<<"simtime:"<<simTime()<<endl;
+            eventPkt->setName(msgname);
+            eventPkt->setSource(getIndex());
+            eventPkt->setHopCount(hopCount);
+            eventPkt->setXmac(eventPkt->getEvent()-123);
+            eventPkt->setBitLength(pkLenBits->longValue());
+            int n = gateSize("radio");
+            send(eventPkt,"radio$o",n-1);
+            eventPkt=new PacketCh("");
+            scheduleAt(simTime() + radioDelay, sendPkt);
+        } else {
+            PacketCn *pkt = check_and_cast<PacketCn *>(msg);
+            int src = pkt->getSource();
+            int event = pkt->getEvent();
+            ev << "from #" << src << "with event:" << event << endl;
+            eventPkt->setMac(src,1011000+src);
+            eventPkt->setEvent(eventPkt->getEvent()+event);
+        }
+    }
+    //en-route节点
+    else {
+        int n = gateSize("radio");
+        double duration=pkLenBits->longValue()/txRate;
+        ev<<"duration time:"<<duration<<endl;
+        sendDelayed(msg,duration,"radio$o",n-1);
+    }
+}
+\end{lstlisting}
 

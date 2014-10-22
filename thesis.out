@@ -3,43 +3,45 @@
 \BOOKMARK [0][-]{chapter.1}{绪论}{}% 3
 \BOOKMARK [1][-]{section.1.1}{本文研究背景和意义}{chapter.1}% 4
 \BOOKMARK [2][-]{subsection.1.1.1}{无线传感网概述}{section.1.1}% 5
-\BOOKMARK [2][-]{subsection.1.1.2}{无线传感网数据交叉认证概述}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.2}{无线传感网对数据认证的需求}{section.1.1}% 6
 \BOOKMARK [1][-]{section.1.2}{本文研究内容}{chapter.1}% 7
 \BOOKMARK [1][-]{section.1.3}{本文组织结构}{chapter.1}% 8
 \BOOKMARK [0][-]{chapter.2}{相关研究}{}% 9
-\BOOKMARK [1][-]{section.2.1}{（2.1 题目）}{chapter.2}% 10
-\BOOKMARK [2][-]{subsection.2.1.1}{（2.1.1 题目）}{section.2.1}% 11
-\BOOKMARK [2][-]{subsection.2.1.2}{（2.1.2 题目）}{section.2.1}% 12
-\BOOKMARK [1][-]{section.2.2}{（2.2 题目）}{chapter.2}% 13
-\BOOKMARK [1][-]{section.2.3}{（2.3 题目）}{chapter.2}% 14
-\BOOKMARK [0][-]{chapter.3}{多跳长路径上多节点联合数据认证}{}% 15
-\BOOKMARK [1][-]{section.3.1}{（2.1 题目）}{chapter.3}% 16
-\BOOKMARK [2][-]{subsection.3.1.1}{（2.1.1 题目）}{section.3.1}% 17
-\BOOKMARK [2][-]{subsection.3.1.2}{（2.1.2 题目）}{section.3.1}% 18
-\BOOKMARK [1][-]{section.3.2}{（2.2 题目）}{chapter.3}% 19
-\BOOKMARK [1][-]{section.3.3}{（2.3 题目）}{chapter.3}% 20
-\BOOKMARK [0][-]{chapter.4}{多路径抗密钥失效}{}% 21
-\BOOKMARK [1][-]{section.4.1}{（2.1 题目）}{chapter.4}% 22
-\BOOKMARK [2][-]{subsection.4.1.1}{（2.1.1 题目）}{section.4.1}% 23
-\BOOKMARK [2][-]{subsection.4.1.2}{（2.1.2 题目）}{section.4.1}% 24
-\BOOKMARK [1][-]{section.4.2}{（2.2 题目）}{chapter.4}% 25
-\BOOKMARK [1][-]{section.4.3}{（2.3 题目）}{chapter.4}% 26
-\BOOKMARK [0][-]{chapter.5}{密钥分配方案}{}% 27
-\BOOKMARK [1][-]{section.5.1}{（2.1 题目）}{chapter.5}% 28
-\BOOKMARK [2][-]{subsection.5.1.1}{（2.1.1 题目）}{section.5.1}% 29
-\BOOKMARK [2][-]{subsection.5.1.2}{（2.1.2 题目）}{section.5.1}% 30
-\BOOKMARK [1][-]{section.5.2}{（2.2 题目）}{chapter.5}% 31
-\BOOKMARK [1][-]{section.5.3}{（2.3 题目）}{chapter.5}% 32
-\BOOKMARK [0][-]{chapter.6}{仿真实验与结果分析}{}% 33
-\BOOKMARK [1][-]{section.6.1}{（2.1 题目）}{chapter.6}% 34
-\BOOKMARK [2][-]{subsection.6.1.1}{（2.1.1 题目）}{section.6.1}% 35
-\BOOKMARK [2][-]{subsection.6.1.2}{（2.1.2 题目）}{section.6.1}% 36
-\BOOKMARK [1][-]{section.6.2}{（2.2 题目）}{chapter.6}% 37
-\BOOKMARK [1][-]{section.6.3}{（2.3 题目）}{chapter.6}% 38
-\BOOKMARK [0][-]{chapter.7}{总结与展望}{}% 39
-\BOOKMARK [1][-]{section.7.1}{本文总结}{chapter.7}% 40
-\BOOKMARK [1][-]{section.7.2}{未来工作于展望}{chapter.7}% 41
-\BOOKMARK [0][-]{chapter*.14}{致谢}{}% 42
-\BOOKMARK [0][-]{section*.15}{参考文献}{}% 43
-\BOOKMARK [0][-]{chapter*.17}{作者在学期间取得的学术成果}{}% 44
-\BOOKMARK [0][-]{appendix.A}{模板提供的希腊字母命令列表}{}% 45
+\BOOKMARK [1][-]{section.2.1}{无线传感网安全技术概述}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.1.1}{无线传感网的安全威胁}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.2}{无线传感网的安全机制}{section.2.1}% 12
+\BOOKMARK [1][-]{section.2.2}{无线传感网认证机制概述}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.1}{无线传感网数据认证概述}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.2}{无线传感网密钥分配方案概述}{section.2.2}% 15
+\BOOKMARK [0][-]{chapter.3}{多跳长路径上多节点联合数据认证}{}% 16
+\BOOKMARK [1][-]{section.3.1}{无线传感网数据认证模型}{chapter.3}% 17
+\BOOKMARK [2][-]{subsection.3.1.1}{多跳长路径上多节点联合数据认证模型}{section.3.1}% 18
+\BOOKMARK [2][-]{subsection.3.1.2}{系统模型和设计目标}{section.3.1}% 19
+\BOOKMARK [1][-]{section.3.2}{多跳长路径上多节点联合的数据认证机制设计与实现}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.2.1}{符号与定义}{section.3.2}% 21
+\BOOKMARK [2][-]{subsection.3.2.2}{多节点联合数据认证方案}{section.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.2.3}{安全性能分析}{section.3.2}% 23
+\BOOKMARK [1][-]{section.3.3}{路径上节点关系的维护}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.3.1}{基站维护}{section.3.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.2}{节点自动维护}{section.3.3}% 26
+\BOOKMARK [1][-]{section.3.4}{本章小结}{chapter.3}% 27
+\BOOKMARK [0][-]{chapter.4}{数据认证方案优化}{}% 28
+\BOOKMARK [1][-]{section.4.1}{多路径抗节点失效机制实现}{chapter.4}% 29
+\BOOKMARK [2][-]{subsection.4.1.1}{设计实现}{section.4.1}% 30
+\BOOKMARK [2][-]{subsection.4.1.2}{安全性能分析}{section.4.1}% 31
+\BOOKMARK [1][-]{section.4.2}{动态步长多节点联合数据认证}{chapter.4}% 32
+\BOOKMARK [2][-]{subsection.4.2.1}{动态步长多节点联合数据认证机制设计}{section.4.2}% 33
+\BOOKMARK [2][-]{subsection.4.2.2}{安全性能分析}{section.4.2}% 34
+\BOOKMARK [1][-]{section.4.3}{本章小结}{chapter.4}% 35
+\BOOKMARK [0][-]{chapter.5}{密钥分配与MAC设计}{}% 36
+\BOOKMARK [1][-]{section.5.1}{基于单向hash链的密钥分配方案}{chapter.5}% 37
+\BOOKMARK [2][-]{subsection.5.1.1}{单向hash链}{section.5.1}% 38
+\BOOKMARK [1][-]{section.5.2}{轻量级MAC码}{chapter.5}% 39
+\BOOKMARK [1][-]{section.5.3}{本章小结}{chapter.5}% 40
+\BOOKMARK [0][-]{chapter.6}{仿真实验与结果分析}{}% 41
+\BOOKMARK [0][-]{chapter.7}{总结与展望}{}% 42
+\BOOKMARK [1][-]{section.7.1}{本文总结}{chapter.7}% 43
+\BOOKMARK [1][-]{section.7.2}{未来工作于展望}{chapter.7}% 44
+\BOOKMARK [0][-]{chapter*.25}{致谢}{}% 45
+\BOOKMARK [0][-]{section*.26}{参考文献}{}% 46
+\BOOKMARK [0][-]{chapter*.28}{作者在学期间取得的学术成果}{}% 47

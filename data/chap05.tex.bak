@@ -1,88 +1,29 @@
-\chapter{第一章题目}
+\chapter{密钥分配与MAC设计}
 
-本章的主要内容与学校提供的Word模板中内容一致，图片与表格均采用原始设定大小，%
-主要是为了说明格式的统一。%
-但是，\LaTeX{}的一些禁则，专业排版的能力，对公式及文献的处理都是得天独厚的，%
-我们不必刻意去追求与Word的完美匹配。而且你将会发现，用\LaTeX{}书写论文的美！ %
+\section{基于单向hash链的密钥分配方案}
+\subsection{单向hash链}
+A hash function takes a binary string of arbitrary
+length as input, and outputs a binary string of fixed
+length. A one-way hash function H satisfies the
+following three properties: (1) given an input x, it is
+easy to compute y such that y=H(x); (2) given a hash
+value y, it is computationally infeasible to find a second
+input x such that y=H(x);(3) Given a hash value y, it is
+computationally infeasible to find a second input x’
+such thatH(x’) = y, where x x’.
+对一个任意大小的消息，hash函数能输出一个给定长度的消息摘要，可以表示为$hash:\{0,1\}^*\rightarrow\{0,1\}^i$
 
-\section{（1.1 题目）}
-正文内容
+A one-way hash chain is a sequence of hash values
+{x0, x1, …, xn-1, xn} such that {xj|∀j: 0<j≤n, xj-1=H(xj)}.
+It can be derived as follows: (1) Generating a random
+secret seed xn; (2) repeatedly applying the same one
+way hash function on the seed xn to produce the hash
+chain. Thus, there exists the following relation:
+x0=H(x1) =H2(x2) = … = Hn-1(xn-1) = Hn (xn). Due to the
+one-way hash chain property, given xi, it is
+computationally infeasible to calculate xj (j>i), but is
+easy to compute any xj (j<i) with xj = Hi-j(xi).
+\section{轻量级MAC码}
 
-\subsection{（1.1.1 题目）}
-正文内容
-
-正文内容
-
-\begin{figure}[htp]
-\centering
-\includegraphics{picmain}
-\caption{图 1.1 名称}
-\end{figure}
-
-\subsubsection{（1.1.1.1 题目）}
-正文内容
-
-正文内容
-
-正文内容
-
-\subsubsection{（1.1.1.2 题目）}
-正文内容
-
-正文内容
-
-正文内容
-
-\subsection{（1.1.2 题目）}
-正文内容
-
-正文内容
-
-\begin{figure}[htp]
-\centering
-\includegraphics{picmain}
-\caption{图 1.2 名称}
-\end{figure}
-
-\section{（1.2 题目）}
-正文内容
-
-正文内容
-
-\begin{table}[htp]
-\centering
-\caption{表 1.2 名称}
-\begin{tabular}{|c|c|c|c|c|}
-\hline
-\makebox[2.07cm][0pt]{} & \makebox[2.07cm][0pt]{} & \makebox[2.07cm][0pt]{} & \makebox[2.07cm][0pt]{} & \makebox[2.07cm][0pt]{} \\
-\hline
- & & & & \\
-\hline
- & & & & \\
-\hline
-\end{tabular}
-\end{table}
-
-正文内容
-
-正文内容
-
-正文内容
-
-正文内容
-
-\section{（1.3 题目）}
-本模板推荐使用 BIB\TeX，样式文件为 bstutf8.bst，符合学校的参考文献格式（如专利
-等引用未加详细测试）。看看这个例子，关于书的\upcite{tex, companion}，
-还有这些\upcite{Krasnogor2004e, clzs, zjsw}，关于杂志的\upcite{ELIDRISSI94,
-  MELLINGER96, SHELL02}，硕士论文\upcite{zhubajie, metamori2004}，博士论文
-\upcite{shaheshang, FistSystem01}，标准文件\upcite{IEEE-1363}，会议论文\upcite{DPMG,kocher99}，%
-技术报告\upcite{NPB2}。中文参考文献\upcite{cnarticle}\textsf{特别注意}，需要在\verb|bibitem|中
-增加\verb|language|域并设为\verb|zh|，英文此项可不填，之后由\verb|bstutf8|统一处理
-(具体就是决定一些文献在中英文不同环境下的显示格式，如等、etc)。
-若使用\verb|JabRef|，则你可按下面步骤来设置：
-选择\textsf{Options}$\rightarrow$\textsf{Set Up General Fields}，
-在\verb|General:|后加入\verb|language|就可以了。
-
-有时候不想要上标，那么可以这样 \cite{shaheshang}，这个非常重要。
+\section{本章小结}
 

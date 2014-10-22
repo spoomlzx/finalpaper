@@ -5,57 +5,58 @@ The style file: bstutf8.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: ref/refs.bib
+"," immediately follows a field name---line 133 of file ref/refs.bib
+ : @article{diffie, w.1976new
+ :                           ,
+I'm skipping whatever remains of this entry
 -- BUPTThesis.bst version 1.0 Beta 1 (2009/05/31) by Yu Zhang.
 -- http://code.google.com/p/buptthesis/
 -- See the "userguide.pdf" manual for usage information.
-Warning--empty editor in clzs
-Warning--empty booktitle in clzs
-Warning--there's a publisher but no address in clzs
-Warning--The editor in DPMG is missing.
-Warning--empty editor in DPMG
-Warning--empty pages in DPMG
-Warning--there's neither address nor publisher in NPB2
+Warning--The editor in karp2000gpsr is missing.
+Warning--empty editor in karp2000gpsr
+Warning--The editor in mathews2007detecting is missing.
+Warning--empty editor in mathews2007detecting
 
 Done.
-You've used 17 entries,
+You've used 5 entries,
             4554 wiz_defined-function locations,
-            1123 strings with 10015 characters,
-and the built_in function-call counts, 9184 in all, are:
-= -- 1004
-> -- 147
-< -- 12
-+ -- 81
-- -- 59
-* -- 753
-:= -- 1027
-add.period$ -- 61
-call.type$ -- 17
-change.case$ -- 1
-chr.to.int$ -- 12
-cite$ -- 24
-duplicate$ -- 636
-empty$ -- 999
-format.name$ -- 42
-if$ -- 2222
+            1030 strings with 8417 characters,
+and the built_in function-call counts, 3329 in all, are:
+= -- 384
+> -- 53
+< -- 5
++ -- 32
+- -- 16
+* -- 273
+:= -- 373
+add.period$ -- 20
+call.type$ -- 5
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 205
+empty$ -- 340
+format.name$ -- 16
+if$ -- 811
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 2
-newline$ -- 99
-num.names$ -- 20
-pop$ -- 64
+int.to.str$ -- 5
+missing$ -- 0
+newline$ -- 34
+num.names$ -- 5
+pop$ -- 22
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 219
+skip$ -- 106
 stack$ -- 0
-substring$ -- 1054
-swap$ -- 181
-text.length$ -- 25
+substring$ -- 382
+swap$ -- 73
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 149
-warning$ -- 7
-while$ -- 81
-width$ -- 19
-write$ -- 142
-(There were 7 warnings)
+type$ -- 53
+warning$ -- 4
+while$ -- 36
+width$ -- 6
+write$ -- 48
+(There was 1 error message)

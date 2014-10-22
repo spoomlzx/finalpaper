@@ -60,14 +60,17 @@
 \endate{\entoday}
 \subject{网络工程}
 \ensubject{Large-scale Wireless Sensor Network Data Authentication}
-\researchfield{自动目标识别与模糊工程}
-\supervisor{李四\quad{}教授}
-\cosupervisor{王五\quad{}副教授} % 没有就空着
-\ensupervisor{Professor Li Si}
+\researchfield{网络工程}
+\supervisor{夏戈明\quad{}教授}
+\cosupervisor{} % 没有就空着
+\ensupervisor{Associate Professor Xia Geming}
 \encosupervisor{}
 \papertype{工学}
 \enpapertype{Engineering}
 % 加入makenomenclature命令可用nomencl制作符号列表。
+
+
+
 
 \begin{document}
 \graphicspath{{figures/}}
@@ -84,12 +87,18 @@
 
 \midmatter
 \input{data/abstract}
-\input{data/denotation}
+%\input{data/denotation}
 
 %书写正文，可以根据需要增添章节; 正文还包括致谢，参考文献与成果
 \mainmatter
 \input{data/chap01}
 \input{data/chap02}
+\input{data/chap03}
+\input{data/chap04}
+\input{data/chap05}
+\input{data/chap06}
+\input{data/chap07}
+%\input{data/chap}
 
 \input{data/ack}
 
