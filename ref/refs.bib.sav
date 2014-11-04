@@ -1,79 +1,6 @@
 % This file was created with JabRef 2.10.
 % Encoding: UTF-8
 
-@article{c:sensor,
-  author = {Su, Y Sankarasubramaniam W},
-  title = {A survey on sensor networks},
-  year = 2002
-}
-
-@article{c:cluster,
-  author = {Intanagonwiwat, C. and GOvindan, R. and Estrin, D.},
-  journal = {MOBICOM},
-  keywords = {imported},
-  title = {Directed Diffusion: A scalable anr robust communication paradigm for sensor networks},
-  year = 2000
-}
-
-@electronic{c:tinyos,
-   title       = {TinyOS Home Page},
-   url         = {http://www.tinyos.net/},
-   biburl      = {http://www.bibsonomy.org/url/63aadef5232d8f084b2d0b17e202c399/drentschew},
-   keywords    = {my::mikschl my::praktikum networking wireless},
-   added-at    = {2011-03-02T09:32:22.000+0100},
-   description = {},
-}
-
-@book{c:adhoc,
-  author = {Freebersyser},
-  owner = {msteele},
-  publisher = {Addison Wesley},
-  title = {{Ad Hoc Networking}},
-  year = 2001
-}
-
-@article{c:protocol,
-  title={分布式无线传感器网络通信协议研究},
-  author={于海斌,曾鹏,王忠锋,梁英,尚志军},
-  journal={通信学报},
-  pages={102-110},
-  year={2004}
-}
-
-@InProceedings{c:water,
-author={Haifeng Li and Xufeng Hua},
-booktitle={Intelligent System Design and Engineering Applications (ISDEA), 2013 Third International Conference on},
-title={Water Enviroment Monitoring System Based on Zigbee Technology},
-year={2013},
-month={Jan},
-pages={1607-1609}
-}
-
-@InProceedings{c:DADS,
-author={Owen, M.W. and Klamer, D.M. and Dean, B.},
-booktitle={Information Fusion, 2000. FUSION 2000. Proceedings of the Third International Conference on},
-title={Evolutionary control of an autonomous field},
-year={2000},
-month={July},
-volume={1},
-pages={MOD1/3-MOD1/9 vol.1}
-}
-
-@Inproceedings{c:homes,
-  author = {Meyer, Sven and Rakotonirainy, Andry},
-  booktitle = {ACSW Frontiers},
-  pages = {159-168},
-  title = {A Survey of Research on Context-Aware Homes.},
-  volume = 21,
-  year = 2003
-}
-
-
-
-
-
-
-
 @InProceedings{c1:limitation,
   author={Kulkarni, G. and Shelk, R. and Gaikwad, K. and Solanke, V. and Gujar, S. and Khatawkar, P.},
   booktitle={Communication and Computing (ARTCom 2013), Fifth International Conference on Advances in Recent Technologies in},
@@ -307,11 +234,10 @@ pages={MOD1/3-MOD1/9 vol.1}
 
 @article{c1:MMtesla,
   title={无线传感器网络安全技术综述},
-  author={裴庆祺 and 沈玉龙 and 马建峰},
+  author={裴庆祺,沈玉龙,马建峰},
   journal={通信学报},
   volume={28},
-  year={2007},
-  language = {zh}
+  year={2007}
 }
 
 @article{c1:anas,
@@ -342,35 +268,9 @@ pages={MOD1/3-MOD1/9 vol.1}
   year = 2004
 }
 
-@INPROCEEDINGS{c1:Benenson,
-    author = {Zinaida Benenson},
-    title = {Realizing Robust User Authentication in Sensor Networks},
-    booktitle = {In Real-World Wireless Sensor Networks (REALWSN},
-    year = {2005}
-}
 
 
-@inproceedings{c1:Bauer,
-  author = {Bauer, K. and Lee, Hyunyoung},
-  booktitle = { ACM Transactions on Information and System Security},
-  pages = {1-35},
-  publisher = {ACM},
-  number = 3,
-  volume = 11,
-  title = {A Distributed Authentication Scheme for a Wireless Sensing System},
-  year = 2004,
-  month = Mar
-}
 
-@article{c1:Cao,
-  author = {Cao, Xuefei and Kou, Weidong and Dang, Lanjun and Zhao, Bin},
-  journal = {Computer Communications},
-  number = 4,
-  pages = {659-667},
-  title = {IMBAS: Identity-based multi-user broadcast authentication in wireless sensor networks.},
-  volume = 31,
-  year = 2008
-}
 
 
 @InProceedings{c2:chan2003random,
@@ -537,17 +437,4 @@ pages={MOD1/3-MOD1/9 vol.1}
   Pages                    = {500--528},
   Volume                   = {2},
   Publisher                = {ACM}
-}
-
-
-
-@article{c5:hmac,
-  author = {Bellare, Mihir and Canetti, Ran and Krawczyk, Hugo},
-  journal = {CryptoBytes},
-  month = {Spring},
-  number = 1,
-  pages = {12--15},
-  title = {Message Authentication Using Hash Functions: the {HMAC} Construction},
-  volume = 2,
-  year = 1996
 }

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.26)  22 OCT 2014 16:47
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.26)  3 NOV 2014 08:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1877,15 +1877,7 @@ LaTeX Font Info:    Font shape `U/fsy/m/n' will be
 
 [2
 
-]
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 82.
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 10.84042pt on input line 82.
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 7.58826pt on input line 82.
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 5.4202pt on input line 82.
- [3
+] [3
 
 ] (./thesis.toc
 .................................................
@@ -1928,7 +1920,15 @@ LaTeX Font Info:    Font shape `U/fsy/m/n' will be
 
  [3
 
-] (./thesis.lof)
+] (./thesis.lof
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 4.
+LaTeX Font Info:    Font shape `U/fsy/m/n' will be
+(Font)              scaled to size 10.84042pt on input line 4.
+LaTeX Font Info:    Font shape `U/fsy/m/n' will be
+(Font)              scaled to size 7.58826pt on input line 4.
+LaTeX Font Info:    Font shape `U/fsy/m/n' will be
+(Font)              scaled to size 5.4202pt on input line 4.
+)
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
@@ -1947,48 +1947,32 @@ LaTeX Font Info:    Font shape `U/fsy/m/n' will be
 LaTeX Font Warning: Font shape `EU1/STZhongsong(0)/bx/n' undefined
 (Font)              using `EU1/STZhongsong(0)/m/n' instead on input line 4.
 
-[1
+File: figures/cluster.pdf Graphic file (type QTm)
+<use  "figures/cluster.pdf" > [1
 
-
-
-]) (./data/chap02.tex [2]
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+File: figures/node.pdf Graphic file (type QTm)
+ <use  "figures/node.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+File: figures/construction.pdf Graphic file (type QTm)
+
+<use  "figures/construction.pdf" > [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+[5] [6]) (./data/chap02.tex [7]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-) (./data/chap03.tex [4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5]
-File: figures/wsnapp.pdf Graphic file (type QTm)
-
-<use  "figures/wsnapp.pdf" > [6
+[8
 
 
-] [7]
-Overfull \hbox (11.68166pt too wide) in alignment at lines 59--71
-[][] 
- []
-
-File: figures/IHA1.pdf Graphic file (type QTm)
-<use  "figures/IHA1.pdf" >
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-File: figures/IHA2.pdf Graphic file (type QTm)
-
-<use  "figures/IHA2.pdf" >
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
@@ -1998,9 +1982,59 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
+File: figures/TESLA.pdf Graphic file (type QTm)
+
+<use  "figures/TESLA.pdf" > [12]
+File: figures/multiTESLA.pdf Graphic file (type QTm)
+ <use  "figures/multiTESLA.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+[16]
+File: figures/GBKP.pdf Graphic file (type QTm)
+ <use  "figures/GBKP.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17])
+(./data/chap03.tex [18]
+File: figures/wsnapp.pdf Graphic file (type QTm)
+ <use  "figures/wsnapp.pdf" > [19
+
+
+] [20]
+Overfull \hbox (11.68166pt too wide) in alignment at lines 61--73
+[][] 
+ []
+
+File: figures/IHA1.pdf Graphic file (type QTm)
+<use  "figures/IHA1.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+File: figures/IHA2.pdf Graphic file (type QTm)
+
+<use  "figures/IHA2.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
 File: figures/IHA3.pdf Graphic file (type QTm)
 
-<use  "figures/IHA3.pdf" > [12]) (./data/chap04.tex [13] [14
+<use  "figures/IHA3.pdf" > [25]) (./data/chap04.tex [26] [27
 
 
 ]
@@ -2011,30 +2045,74 @@ File: figures/IHAA2.pdf Graphic file (type QTm)
  <use  "figures/IHAA2.pdf" >
 File: figures/IHAA3.pdf Graphic file (type QTm)
 
-<use  "figures/IHAA3.pdf" > [15]
+<use  "figures/IHAA3.pdf" > [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
+ [29]
 File: figures/IHAA4.pdf Graphic file (type QTm)
 
-<use  "figures/IHAA4.pdf" >
+<use  "figures/IHAA4.pdf" > [30]
 File: figures/IHAA5.pdf Graphic file (type QTm)
- <use  "figures/IHAA5.pdf" >
+ <use  "figures/IHAA5.pdf" > [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18])
-(./data/chap05.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [32])
+(./data/chap05.tex [33]
+Underfull \hbox (badness 10000) in alignment at lines 13--24
+[][] 
+ []
 
- [19]
-[20]) (./data/chap06.tex [21
+[34
 
 
 ]
-(d:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 54.
+
+Underfull \hbox (badness 10000) in alignment at lines 99--107
+[] 
+ []
+
+[35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+File: figures/keyACK.pdf Graphic file (type QTm)
+
+<use  "figures/keyACK.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+[38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+File: figures/scbc.pdf Graphic file (type QTm)
+
+<use  "figures/scbc.pdf" >
+Overfull \hbox (11.15623pt too wide) in paragraph at lines 238--239
+[]\EU1/AdobeSongStd(1)/m/n/12.045 通 过 对 消 息 $\OML/txmi/m/it/12.045 M$ \EU1/Adob
+eSongStd(1)/m/n/12.045 进 行 填 充 $\OML/txmi/m/it/12.045 M\OMS/txsy/m/n/12.045 k\O
+T1/txr/m/n/12.045 1\OMS/txsy/m/n/12.045 k\OT1/txr/m/n/12.045 0[]$\EU1/AdobeSong
+Std(1)/m/n/12.045 ，|  使 得 消 息 \EU1/TimesNewRoman(0)/m/n/12.045 M \EU1/AdobeSong
+Std(1)/m/n/12.045 可 以 表 示 为 $\OML/txmi/m/it/12.045 M \OT1/txr/m/n/12.045 = (\OM
+L/txmi/m/it/12.045 M[]\OMS/txsy/m/n/12.045 k\OML/txmi/m/it/12.045 M[]\OMS/txsy/
+m/n/12.045 k [] k\OML/txmi/m/it/12.045 M[]\OT1/txr/m/n/12.045 ) \OMS/txsy/m/n/1
+2.045 2
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40])
+(./data/chap06.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+[42] [43
+
+
+] (d:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
 (d:/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
@@ -2067,19 +2145,26 @@ File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
 . * 'normal' with NFSS spec.:
 . <->"Adobe Kaiti Std/ICU:script=hani;language=DFLT;mapping=tex-text;"
 .................................................
-) (./data/chap07.tex [22
+ [44])
+(./data/chap07.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+[46] [47
 
 
-]) (./data/ack.tex [23
+]) (./data/ack.tex [48]) [49
+
+] (./thesis.bbl
+Underfull \hbox (badness 1454) in paragraph at lines 41--46
+[]\EU1/TimesNewRoman(0)/m/n/12.045 Kulkarni G, Shelk R, Gaikwad K, et al. Wirel
+ess sensor network security
+ []
+
+[50
 
 
-]) [24
-
-] (./thesis.bbl) (./data/resume.tex [25
-
-
-])
-[26
+] [51] [52]) (./data/resume.tex [53]) [54
 
 ]
 \tf@thm=\write8
@@ -2100,12 +2185,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 31138 strings out of 494648
- 567364 string characters out of 6163813
- 737656 words of memory out of 5000000
- 33958 multiletter control sequences out of 15000+600000
- 84226 words of font info for 305 fonts, out of 8000000 for 9000
+ 31412 strings out of 494648
+ 570972 string characters out of 6163813
+ 762791 words of memory out of 5000000
+ 34223 multiletter control sequences out of 15000+600000
+ 84234 words of font info for 306 fonts, out of 8000000 for 9000
  622 hyphenation exceptions out of 8191
- 51i,16n,67p,10427b,1160s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,16n,67p,10427b,1801s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (35 pages).
+Output written on thesis.pdf (63 pages).

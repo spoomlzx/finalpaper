@@ -47,15 +47,15 @@
 \usepackage{mynudt}
 
 \classification{TP957}
-\serialno{0123456}
+\serialno{12060025}
 \confidentiality{公开}
 \UDC{}
 \title{国防科大学位论文\LaTeX{}模板\\
 使用手册}
-\displaytitle{国防科学技术大学学位论文\LaTeX{}模板}
+\displaytitle{面向规模化传感网的数据认证关键技术研究}
 \author{蓝宗骁}
 \zhdate{\zhtoday}
-\entitle{面向规模化大数据传感网的数据认证关键技术研究}
+\entitle{面向规模化传感网的数据认证关键技术研究}
 \enauthor{Lan Zongxiao}
 \endate{\entoday}
 \subject{网络工程}
@@ -112,6 +112,6 @@
 % 最后，需要的话还要生成附录，全文随之结束。
 \appendix
 \backmatter
-\input{data/appendix01}
+%\input{data/appendix01}
 
 \end{document}
