@@ -18,9 +18,6 @@
 @electronic{c:tinyos,
    title       = {TinyOS Home Page},
    url         = {http://www.tinyos.net/},
-   biburl      = {http://www.bibsonomy.org/url/63aadef5232d8f084b2d0b17e202c399/drentschew},
-   keywords    = {my::mikschl my::praktikum networking wireless},
-   added-at    = {2011-03-02T09:32:22.000+0100},
    description = {},
 }
 
@@ -550,4 +547,18 @@ pages={MOD1/3-MOD1/9 vol.1}
   title = {Message Authentication Using Hash Functions: the {HMAC} Construction},
   volume = 2,
   year = 1996
+}
+
+
+
+
+@inproceedings{c5:xormac,
+  author = {Bellare, Mihir and Guérin, Roch and Rogaway, Phillip},
+  booktitle = {CRYPTO},
+  pages = {15-28},
+  publisher = {Springer},
+  series = {Lecture Notes in Computer Science},
+  title = {XOR MACs: New Methods for Message Authentication Using Finite Pseudorandom Functions.},
+  volume = 963,
+  year = 1995
 }

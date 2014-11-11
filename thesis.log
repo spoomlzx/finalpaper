@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.26)  3 NOV 2014 08:50
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/W32TeX) (preloaded format=xelatex 2014.9.26)  10 NOV 2014 23:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1610,53 +1610,53 @@ LaTeX Warning: Label `XMAC' multiply defined.
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 75.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 75.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 74.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 74.
 
  (d:/texlive/2014/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 75.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 74.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 74.
 
 
 (d:/texlive/2014/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 75.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 74.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 74.
 
 
 (d:/texlive/2014/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 75.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 74.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 74.
 
 (d:/texlive/2014/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 75.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 74.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 74.
 
 (d:/texlive/2014/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1703,7 +1703,7 @@ Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 75.
+Package hyperref Info: Link coloring OFF on input line 74.
 
 (d:/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1713,9 +1713,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count322
 )
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write4
@@ -1749,39 +1749,39 @@ LaTeX Info: Redefining \nameref on input line 75.
 . * 'normal' with NFSS spec.:
 . <->"Adobe Fangsong Std/ICU:script=hani;language=DFLT;mapping=tex-text;"
 .................................................
-LaTeX Font Info:    Calculating math sizes for size <10.53937> on input line 82
+LaTeX Font Info:    Calculating math sizes for size <10.53937> on input line 81
 .
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 82.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 81.
 
 (d:/texlive/2014/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsya on input line 82.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 81.
 
 (d:/texlive/2014/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 82.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 81.
 
 (d:/texlive/2014/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 82.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 81.
 
 (d:/texlive/2014/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 82.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 81.
 
 (d:/texlive/2014/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 9.48535pt on input line 82.
+(Font)              scaled to size 9.48535pt on input line 81.
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 6.63971pt on input line 82.
+(Font)              scaled to size 6.63971pt on input line 81.
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 4.74268pt on input line 82.
+(Font)              scaled to size 4.74268pt on input line 81.
 \g_fontspec_family_Adobe Heiti Std_int=\count325
 .................................................
 . fontspec info: "no-font-shape"
@@ -1836,22 +1836,14 @@ LaTeX Font Info:    Font shape `U/fsy/m/n' will be
 . * 'normal' with NFSS spec.:
 . <->"STZhongsong/ICU:script=hani;language=DFLT;mapping=tex-text;"
 .................................................
-LaTeX Font Info:    Calculating math sizes for size <22.08249> on input line 82
+LaTeX Font Info:    Calculating math sizes for size <14.05249> on input line 81
 .
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 19.8741pt on input line 82.
+(Font)              scaled to size 12.64714pt on input line 81.
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 13.9118pt on input line 82.
+(Font)              scaled to size 8.85295pt on input line 81.
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 9.93704pt on input line 82.
-LaTeX Font Info:    Calculating math sizes for size <14.05249> on input line 82
-.
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 12.64714pt on input line 82.
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 8.85295pt on input line 82.
-LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 6.32356pt on input line 82.
+(Font)              scaled to size 6.32356pt on input line 81.
 
 (d:/texlive/2014/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
@@ -1859,13 +1851,13 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 ) [1
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <16.06> on input line 82.
+LaTeX Font Info:    Calculating math sizes for size <16.06> on input line 81.
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 14.45389pt on input line 82.
+(Font)              scaled to size 14.45389pt on input line 81.
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 10.11768pt on input line 82.
+(Font)              scaled to size 10.11768pt on input line 81.
 LaTeX Font Info:    Font shape `U/fsy/m/n' will be
-(Font)              scaled to size 7.22694pt on input line 82.
+(Font)              scaled to size 7.22694pt on input line 81.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1945,16 +1937,20 @@ LaTeX Font Info:    Font shape `U/fsy/m/n' will be
 ] (./data/chap01.tex
 
 LaTeX Font Warning: Font shape `EU1/STZhongsong(0)/bx/n' undefined
-(Font)              using `EU1/STZhongsong(0)/m/n' instead on input line 4.
+(Font)              using `EU1/STZhongsong(0)/m/n' instead on input line 3.
 
 File: figures/cluster.pdf Graphic file (type QTm)
-<use  "figures/cluster.pdf" > [1
+<use  "figures/cluster.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 
 
 ]
 File: figures/node.pdf Graphic file (type QTm)
- <use  "figures/node.pdf" >
+
+<use  "figures/node.pdf" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
@@ -1979,118 +1975,131 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
+[11]
 File: figures/TESLA.pdf Graphic file (type QTm)
-
-<use  "figures/TESLA.pdf" > [12]
+ <use  "figures/TESLA.pdf" > [12]
 File: figures/multiTESLA.pdf Graphic file (type QTm)
  <use  "figures/multiTESLA.pdf" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
-
+[15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
-[16]
+ [16]
 File: figures/GBKP.pdf Graphic file (type QTm)
- <use  "figures/GBKP.pdf" >
+
+<use  "figures/GBKP.pdf" > [17]) (./data/chap03.tex [18]
+File: figures/wsnapp.pdf Graphic file (type QTm)
+
+<use  "figures/wsnapp.pdf" > [19
+
+
+]
+File: figures/model.pdf Graphic file (type QTm)
+ <use  "figures/model.pdf" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17])
-(./data/chap03.tex [18]
-File: figures/wsnapp.pdf Graphic file (type QTm)
- <use  "figures/wsnapp.pdf" > [19
-
-
-] [20]
-Overfull \hbox (11.68166pt too wide) in alignment at lines 61--73
+ [20]
+Overfull \hbox (11.68166pt too wide) in alignment at lines 71--83
 [][] 
  []
 
 File: figures/IHA1.pdf Graphic file (type QTm)
-<use  "figures/IHA1.pdf" >
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-File: figures/IHA2.pdf Graphic file (type QTm)
-
-<use  "figures/IHA2.pdf" >
+<use  "figures/IHA1.pdf" > [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+File: figures/IHA2.pdf Graphic file (type QTm)
 
- [23]
+<use  "figures/IHA2.pdf" > [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
+[25]
 File: figures/IHA3.pdf Graphic file (type QTm)
+ <use  "figures/IHA3.pdf" >) (./data/chap04.tex [26]
+File: figures/MPA.pdf Graphic file (type QTm)
 
-<use  "figures/IHA3.pdf" > [25]) (./data/chap04.tex [26] [27
+<use  "figures/MPA.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27
 
 
 ]
 File: figures/IHAA1.pdf Graphic file (type QTm)
 
 <use  "figures/IHAA1.pdf" >
-File: figures/IHAA2.pdf Graphic file (type QTm)
- <use  "figures/IHAA2.pdf" >
-File: figures/IHAA3.pdf Graphic file (type QTm)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<use  "figures/IHAA3.pdf" > [28]
+ [28]
+File: figures/IHAA2.pdf Graphic file (type QTm)
+
+<use  "figures/IHAA2.pdf" >
+File: figures/IHAA3.pdf Graphic file (type QTm)
+ <use  "figures/IHAA3.pdf" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-File: figures/IHAA4.pdf Graphic file (type QTm)
-
-<use  "figures/IHAA4.pdf" > [30]
-File: figures/IHAA5.pdf Graphic file (type QTm)
- <use  "figures/IHAA5.pdf" > [31]
+[30]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32])
-(./data/chap05.tex [33]
+ [31]
+File: figures/IHAA4.pdf Graphic file (type QTm)
+
+<use  "figures/IHAA4.pdf" >
+File: figures/IHAA5.pdf Graphic file (type QTm)
+ <use  "figures/IHAA5.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33])
+(./data/chap05.tex [34]
 Underfull \hbox (badness 10000) in alignment at lines 13--24
 [][] 
  []
 
-[34
+[35
 
 
 ]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 54.
 
-Underfull \hbox (badness 10000) in alignment at lines 99--107
+Underfull \hbox (badness 10000) in alignment at lines 102--110
 [] 
  []
 
-[35]
+[36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36]
+ [37]
 File: figures/keyACK.pdf Graphic file (type QTm)
 
 <use  "figures/keyACK.pdf" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
-[38]
+ [38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
-File: figures/scbc.pdf Graphic file (type QTm)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<use  "figures/scbc.pdf" >
-Overfull \hbox (11.15623pt too wide) in paragraph at lines 238--239
+ [40]
+[41]
+File: figures/scbc.pdf Graphic file (type QTm)
+ <use  "figures/scbc.pdf" >
+Overfull \hbox (11.15623pt too wide) in paragraph at lines 252--253
 []\EU1/AdobeSongStd(1)/m/n/12.045 通 过 对 消 息 $\OML/txmi/m/it/12.045 M$ \EU1/Adob
 eSongStd(1)/m/n/12.045 进 行 填 充 $\OML/txmi/m/it/12.045 M\OMS/txsy/m/n/12.045 k\O
 T1/txr/m/n/12.045 1\OMS/txsy/m/n/12.045 k\OT1/txr/m/n/12.045 0[]$\EU1/AdobeSong
@@ -2104,15 +2113,12 @@ m/n/12.045 k [] k\OML/txmi/m/it/12.045 M[]\OT1/txr/m/n/12.045 ) \OMS/txsy/m/n/1
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40])
-(./data/chap06.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41]
-[42] [43
+ [42])
+(./data/chap06.tex [43] [44
 
 
-] (d:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
+]
+(d:/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
 (d:/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
@@ -2145,36 +2151,66 @@ File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
 . * 'normal' with NFSS spec.:
 . <->"Adobe Kaiti Std/ICU:script=hani;language=DFLT;mapping=tex-text;"
 .................................................
- [44])
+ [45] [46]
+File: figures/MPAtest.pdf Graphic file (type QTm)
+
+<use  "figures/MPAtest.pdf" >
+Overfull \hbox (6.82864pt too wide) in paragraph at lines 125--126
+ [][] 
+ []
+
+File: figures/MNAfilter.pdf Graphic file (type QTm)
+<use  "figures/MNAfilter.pdf" > [47]
+File: figures/MNAenergy.pdf Graphic file (type QTm)
+ <use  "figures/MNAenergy.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+File: figures/MPAfilter.pdf Graphic file (type QTm)
+
+<use  "figures/MPAfilter.pdf" >
+File: figures/MPAenergy.pdf Graphic file (type QTm)
+ <use  "figures/MPAenergy.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
+File: figures/DSAfilter.pdf Graphic file (type QTm)
+
+<use  "figures/DSAfilter.pdf" >
+File: figures/DSAenergy.pdf Graphic file (type QTm)
+ <use  "figures/DSAenergy.pdf" >)
 (./data/chap07.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [45]
-[46] [47
+ [51]
+[52] [53
 
 
-]) (./data/ack.tex [48]) [49
+]) (./data/ack.tex [54]) [55
 
 ] (./thesis.bbl
-Underfull \hbox (badness 1454) in paragraph at lines 41--46
+Underfull \hbox (badness 1454) in paragraph at lines 47--52
 []\EU1/TimesNewRoman(0)/m/n/12.045 Kulkarni G, Shelk R, Gaikwad K, et al. Wirel
 ess sensor network security
  []
 
-[50
+[56
 
 
-] [51] [52]) (./data/resume.tex [53]) [54
+] [57] [58]) (./data/resume.tex [59]) [60
 
 ]
 \tf@thm=\write8
 \openout8 = `thesis.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
  (./thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 117.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 117.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 116.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2182,15 +2218,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
  ) 
 Here is how much of TeX's memory you used:
- 31412 strings out of 494648
- 570972 string characters out of 6163813
- 762791 words of memory out of 5000000
- 34223 multiletter control sequences out of 15000+600000
- 84234 words of font info for 306 fonts, out of 8000000 for 9000
+ 31400 strings out of 494648
+ 570781 string characters out of 6163813
+ 765420 words of memory out of 5000000
+ 34204 multiletter control sequences out of 15000+600000
+ 68486 words of font info for 259 fonts, out of 8000000 for 9000
  622 hyphenation exceptions out of 8191
  51i,16n,67p,10427b,1801s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (63 pages).
+Output written on thesis.pdf (69 pages).
